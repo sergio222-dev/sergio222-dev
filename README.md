@@ -10,7 +10,7 @@
 
 - React
 - .Net
-- Symphony
+- Symfony
 
 ## Skills 🎯
 
