@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Sergio, a web developer who likes static typing.
 
-<!--
-**sergio222-dev/sergio222-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Powers 💪
 
-Here are some ideas to get you started:
+- Typescript
+- C#
+- PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools 🛠
+
+- React
+- .Net
+- Symphony
+
+## Skills 🎯
+
+- Piano
+- Drawing(?
+- Fullstack
