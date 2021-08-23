@@ -9,6 +9,7 @@
 ## Tools 🛠
 
 - React
+- Node
 - .Net
 - Symfony
 
