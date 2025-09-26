@@ -1,20 +1,22 @@
-### Hi there 👋, I'm Sergio, a web developer who likes static typing.
+### Hi there, I'm Sergio, a web developer who likes static typing.
 
 ## Powers 💪
 
 - Typescript
 - C#
 - PHP
+- Go
 
 ## Tools 🛠
 
 - React
 - Node
+- Qwik
 - .Net
-- Symfony
+- Symfony/Laravel
 
 ## Skills 🎯
 
 - Piano
-- Drawing(?
 - Fullstack
+- Fighting Games
